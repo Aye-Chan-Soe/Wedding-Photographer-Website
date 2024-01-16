@@ -1,0 +1,18 @@
+.bg-img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    filter: brightness(0.8);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+/* Custom CSS for hover effect */
+.navbar-nav .nav-item:hover .nav-link {
+    color: #dbb20c;
+    text-decoration: underline;
+}
+
+#content {}
